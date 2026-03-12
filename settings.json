@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "isxac_.aternos.me:24883",
+    "ip": "isxac_.aternos.me",
     "port": 24883,
     "version": "",
     "try-creative": false
