@@ -8,7 +8,7 @@
   "server": {
     "ip": "isxac_.aternos.me",
     "port": 24883,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
